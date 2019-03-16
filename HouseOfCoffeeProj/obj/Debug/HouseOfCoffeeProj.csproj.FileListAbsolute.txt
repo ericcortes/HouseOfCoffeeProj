@@ -1,0 +1,10 @@
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\bin\Debug\HouseOfCoffeeProj.exe.config
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\bin\Debug\HouseOfCoffeeProj.exe
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\bin\Debug\HouseOfCoffeeProj.pdb
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\obj\Debug\HouseOfCoffeeProj.csprojAssemblyReference.cache
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\obj\Debug\HouseOfCoffeeProj.csproj.CoreCompileInputs.cache
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\obj\Debug\HouseOfCoffeeProj.exe
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\obj\Debug\HouseOfCoffeeProj.pdb
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\bin\Debug\CoffeeHouseLibrary.dll
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\bin\Debug\CoffeeHouseLibrary.pdb
+C:\Users\corte\source\repos\HouseOfCoffeeProj\HouseOfCoffeeProj\obj\Debug\HouseOfCoffeeProj.csproj.CopyComplete
